@@ -1,0 +1,5 @@
+*.pyc
+*.log
+outputs/*.txt
+outputs/*.sql
+config_local.py
